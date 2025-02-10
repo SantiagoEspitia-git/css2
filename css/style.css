@@ -1,0 +1,37 @@
+*{
+  background-color: brown;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+body{
+  background-color: aqua;
+  height: 100vh;
+}
+.fondo{
+  background-color: blueviolet;
+}
+#parrafo{
+  font-size: 50px;
+}
+
+input{
+  height: 60px;
+  width: 100px;
+}
+[type="text"]{
+  background-color: blanchedalmond;
+}
+[type="email"]{
+  background-color: pink;
+}
+[type="number"]{
+  background-color: gold;
+}
+[href="https://sofiaplus.com"]{
+  color: yellow;
+}
+[href="http://sena.org"]{
+  color: blue;
+}
